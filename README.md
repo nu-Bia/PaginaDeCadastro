@@ -15,7 +15,7 @@ Trago neste projeto uma página de cadastro para clientes e usuarios. <br/>
 <br>
 
 <p align="center">
-  <img alt="login" src="https://user-images.githubusercontent.com/112019351/214960536-65439132-ac09-4293-b15d-1c5b7319d312.png">
+  <img alt="login" src="https://user-images.githubusercontent.com/112019351/214962769-a56bac66-5fba-46c9-b339-dc304c3cb6fb.png">
 
 
 ## 🚀 Tecnologias
